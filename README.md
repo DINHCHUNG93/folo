@@ -1,3 +1,41 @@
+
+🚀 AI RSS Reader mã nguồn mở 38.4k⭐ giúp theo dõi hàng trăm nguồn tin AI trong một nơi, full app mọi nền tảng
+
+Nếu mỗi ngày bạn phải đọc AI News, GitHub, Hugging Face, arXiv, Blog công nghệ và mạng xã hội thì Folo là dự án rất đáng chú ý.
+
+Folo là trình đọc RSS thế hệ mới tích hợp AI, giúp tổng hợp và xử lý lượng lớn thông tin tự động.
+
+Các tính năng nổi bật:
+
+* AI tóm tắt bài viết dài chỉ trong vài giây
+* AI dịch nội dung sang ngôn ngữ mong muốn
+* Theo dõi RSS, Blog, Newsletter, Podcast, Video
+* Đồng bộ đa thiết bị
+* Quản lý hàng trăm nguồn tin trong một timeline duy nhất
+* Chia sẻ và khám phá nguồn tin chất lượng từ cộng đồng
+* Kết nối trực tiếp với hệ sinh thái RSSHub
+
+Ứng dụng thực tế:
+
+* Theo dõi tin tức AI và công nghệ
+* Cập nhật paper nghiên cứu mới
+* Monitoring đối thủ cạnh tranh
+* Social Listening cá nhân
+* Xây dựng hệ thống Knowledge Hub cho đội nhóm
+* Thu thập dữ liệu cho RAG và AI Agent
+
+Hỗ trợ:
+
+* Windows
+* macOS
+* Linux
+* Android
+* iOS
+* Web
+
+
+
+
 <div align="center">
   <a href="https://github.com/RSSNext/Folo">
     <img src="https://github.com/RSSNext/Folo/raw/refs/heads/dev/apps/desktop/layer/renderer/public/icon.svg" alt="Logo" width="80" height="80">
